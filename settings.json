@@ -1,0 +1,6 @@
+{
+    "settings" : {
+        "msg_response": "[@user] - Congratulations you Pixified Early Bird, you get to pick a prize! @pixipui",
+	"msg_fail": "Sorry [@user] but the Early Bird prize has already been redeemed for today!" 
+    }
+}
